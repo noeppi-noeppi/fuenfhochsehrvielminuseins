@@ -1,0 +1,3 @@
+This repository contains the result of `5^132145141-1`. Do not ask why... 
+
+I would have put this in a gist, but it was too big :(
